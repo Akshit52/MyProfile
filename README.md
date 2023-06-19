@@ -16,7 +16,7 @@
 <h1 align="center">
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Rahim Ansari                                                                                   
+  I'm Akshit Ahir                                                                                  
 </h1>
                                                                                     <h2 align="center">Full stack/frontend developer
 </h2>                                                                                 
@@ -84,17 +84,9 @@ Tools:
  <ul>
  <li>English : Read,Write and Speak: Native,</li>
  <li>Hindi : Read,Write and Speak: Native,</li>
- <li>Urdu : Read and Write,</li>
- <li>Bhojpuri : Read,Write and Speak: Native.</li>
+ <li>Punjabi : Read and Speak</li>
  </ul>
 </div>
-<hr />
-### :fire: My Stats : 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rahi999&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-                                                                                                                   <br />
-<img src="https://github-readme-stats.vercel.app/api?username=Rahi999&show_icons=true&theme=ADD_THEME_HERE" width="400">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi999&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahi999" alt="rahi999" /></a> </p>
 <hr />
 ### :fire: Checkout Some of My Good Projects : 
 <div id="badges">
