@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/rahim-ansari-43861922b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://rahim-ansari-masai.netlify.app/">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1RX5qWapl0ck053gqaIC78acOrN4ZNG7C/view">
+  <a href="https://drive.google.com/drive/my-drive">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -26,7 +26,6 @@
 * 🌱 I’m currently a Masters Student in Himachal Pradesh Technical University,
 * 🤝 Collaborating on projects with developers,
 * 💬 Ask me about software development,
-* 📫 Get more about me: here is my portfolio <a href="https://rahim-ansari-masai.netlify.app" target="_blank"> Click here</a>
 * ❤️ I love coding,
 * ⚡ Fun fact: Still finding...
 * ⚡ Fun fact: Still finding....
